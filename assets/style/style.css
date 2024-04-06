@@ -1,5 +1,9 @@
+body{
+  background-color: rgb(233, 230, 185);
+}
+
 h1, h2, h3, h4, h5, p{
-    color:#373a3c;
+    color:#04270c;
 }
 /* Hero Section */
 
